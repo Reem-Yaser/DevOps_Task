@@ -7,10 +7,7 @@
 \## Project Overview
 
 
-
-This project is built to support team collaboration.
-
-
+This project is built to support team collaboration for small teams.
 
 \## Getting Started
 
