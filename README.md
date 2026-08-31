@@ -18,3 +18,11 @@ This project is a shared project maintained by the team.
 
 Clone the repository and follow the setup instructions.
 
+
+
+\## Contributing
+
+
+
+Please create a feature branch and open a pull request for changes.
+
