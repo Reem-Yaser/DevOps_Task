@@ -8,15 +8,12 @@
 
 
 This project is built to support team collaboration for small teams.
+## Getting Started
 
-\## Getting Started
-
-
-
-Clone the repository and follow the setup instructions.
-
-
-
+1. Clone the repository.
+2. Install the required dependencies.
+3. Follow the project setup instructions.
+4. Run the application locally.
 \## Contributing
 
 
