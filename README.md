@@ -8,7 +8,7 @@
 
 
 
-This project is a shared project maintained by the team.
+This project is a simple application for small teams. 
 
 
 
